@@ -1,0 +1,13 @@
+.slick-dotted.slick-slider{
+	margin-bottom: 0px;
+}
+.item2{
+	padding:20px 30px 0px 30px;
+}
+.slick-next{
+	background-image: url("images/right.png");
+}
+
+.slick-prev{
+	background-image: url("images/left.png");
+}
